@@ -26,13 +26,15 @@ Welcome to my GitHub profile! I am a **Software Developer** with a strong founda
 
 ---
 
-## 🏆 **LeetCode & Problem Solving**: [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/joevarghese/)
+## 🏆 **LeetCode & Problem Solving**: [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-green?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/joevarghese/)
+
 
 
 💻 **I am a Knight-level coder on LeetCode**, ranking in the **TOP 5%** of coders worldwide! 🏆  
 I enjoy solving algorithmic challenges and optimizing my solutions to handle real-world scenarios, especially in backend development. Solving problems is one of my passions, and I strive to continuously improve my skills!
 
-![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20Level-blue?style=flat&logo=leetcode&logoColor=white) ![LeetCode Top 5%](https://img.shields.io/badge/LeetCode-Top%205%25-blue?style=flat&logo=leetcode&logoColor=white)
+![LeetCode Knight Level](https://img.shields.io/badge/LeetCode-Knight%20Level-orange?style=flat&logo=leetcode&logoColor=white)
+ ![LeetCode Top 5%](https://img.shields.io/badge/LeetCode-Top%205%25-purple?style=flat&logo=leetcode&logoColor=white)
 
 
 ---
