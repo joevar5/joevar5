@@ -1,5 +1,6 @@
-# 👋 Hi there, I'm **Joel Varghese**!
+---
 
+# 👋 Hi there, I'm **Joel Varghese**!  
 Welcome to my GitHub profile! I am a **Software Developer** with a strong foundation in **Deep Learning & AI**, along with expertise in **Backend Development**. I specialize in building intelligent systems and scalable backend applications using **Python**, integrating advanced **Machine Learning** techniques to solve real-world problems.
 
 ---
@@ -7,6 +8,7 @@ Welcome to my GitHub profile! I am a **Software Developer** with a strong founda
 ## 💻 **Technologies & Tools I Work With:**
 
 ### 🧠 **Deep Learning & AI**:
+ ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat&logo=tensorflow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000?style=flat&logo=keras&logoColor=white)  ![FastAI](https://img.shields.io/badge/FastAI-%23000000?style=flat&logo=fastai&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23C23739?style=flat&logo=matplotlib&logoColor=white)![GPT-3](https://img.shields.io/badge/GPT-3-%232F74C4?style=flat&logo=openai&logoColor=white)  ![Generative AI](https://img.shields.io/badge/Generative%20AI-%231A73E8?style=flat&logo=artificial-intelligence&logoColor=white)
 - 🤖 **Frameworks**: TensorFlow, PyTorch, Keras, FastAI
 - 🔢 **Models**: CNNs, RNNs, LSTMs, GANs, Transformers (BERT, GPT-3)
 - 💾 **Data Science**: NumPy, Pandas, SciPy, Matplotlib, Seaborn
@@ -14,17 +16,13 @@ Welcome to my GitHub profile! I am a **Software Developer** with a strong founda
 - 🌐 **Generative AI**: GPT, DALL·E, StyleGAN, VQ-VAE, CLIP
 
 ### 🖥️ **Backend Development**:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-%23000?style=flat&logo=flask&logoColor=white)  ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-%23F05032?style=flat&logo=fastapi&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 - 💻 **Languages**: Python, SQL
 - 🌐 **Frameworks**: Flask, Django, FastAPI
 - 🛠 **Tools**: Celery, Redis, RabbitMQ, Docker
 - 🗄️ **Databases**: PostgreSQL, MySQL, MongoDB
 - 🧑‍💻 **Testing**: Pytest, UnitTest
 - 🚀 **Deployment**: Heroku, AWS, Docker, CI/CD
-
-### 🧑‍💻 **Version Control & DevOps**:
-- 🛠 **Version Control**: Git, GitHub, GitLab
-- 💡 **CI/CD**: GitHub Actions, Jenkins
-- ☁️ **Cloud Platforms**: AWS, GCP, Azure
 
 ---
 
@@ -33,9 +31,14 @@ Welcome to my GitHub profile! I am a **Software Developer** with a strong founda
 💻 **I am a Knight-level coder on [LeetCode](https://leetcode.com/u/joevarghese/)**, ranking in the **TOP 5%** of coders worldwide! 🏆  
 I enjoy solving algorithmic challenges and optimizing my solutions to handle real-world scenarios, especially in backend development. Solving problems is one of my passions, and I strive to continuously improve my skills!
 
+![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20Level-blue?style=flat&logo=leetcode&logoColor=white) ![LeetCode Top 5%](https://img.shields.io/badge/LeetCode-Top%205%25-blue?style=flat&logo=leetcode&logoColor=white)
+
+
 ---
 
-## 📚 **Publications & Research**:
+## 📚 **Publications & Research**: [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile%20Page-blue?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Joel-Eapen-3)  
+
+
 
 I have contributed to the fields of **Deep Learning** and **AI** through my academic and research work. Below are some of my notable publications:
 
@@ -46,6 +49,7 @@ I have contributed to the fields of **Deep Learning** and **AI** through my acad
   A study on using **Deep Learning** models for classifying white blood cells, aimed at medical diagnosis through image recognition.
 
 ---
+
 
 ## 🧑‍💻 **Resume**:
 
