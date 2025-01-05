@@ -29,13 +29,6 @@ Welcome to my GitHub profile! I am a **Software Developer** with a strong founda
 💻 **I am a Knight-level coder on [LeetCode](https://leetcode.com/u/joevarghese/)**, ranking in the **TOP 5%** of coders worldwide! 🏆
 I enjoy solving algorithmic challenges and optimizing my code to handle real-world scenarios, especially in backend development.
 
-## 📈 **GitHub Stats & Activity:**
-
-### GitHub Stats:
-![Joevar5's GitHub stats](https://github-readme-stats.vercel.app/api?username=joevar5&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
-
 ## 🧑‍💻 **Resume**:
 You can find my **[Resume (PDF)](https://github.com/joevar5/joevar5/blob/main/resume.pdf)** here. Feel free to download or view it directly.
 
