@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I am a **Software Developer** with a strong founda
 
 ## 🏆 **LeetCode & Problem Solving**:
 
-💻 **I am a Knight-level coder on [LeetCode](https://leetcode.com/u/joevarghese/)**, ranking in the **TOP 4%** of coders worldwide! 🏆
+💻 **I am a Knight-level coder on [LeetCode](https://leetcode.com/u/joevarghese/)**, ranking in the **TOP 5%** of coders worldwide! 🏆
 I enjoy solving algorithmic challenges and optimizing my code to handle real-world scenarios, especially in backend development.
 
 ## 📈 **GitHub Stats & Activity:**
