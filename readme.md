@@ -26,16 +26,13 @@ Welcome to my GitHub profile! I am a **Software Developer** with a strong founda
 
 ## 🏆 **LeetCode & Problem Solving**:
 
-💻 **I am a Knight-level coder on [LeetCode](https://leetcode.com/joevar5)**, ranking in the **TOP 4%** of coders worldwide! 🏆
+💻 **I am a Knight-level coder on [LeetCode](https://leetcode.com/u/joevarghese/)**, ranking in the **TOP 4%** of coders worldwide! 🏆
 I enjoy solving algorithmic challenges and optimizing my code to handle real-world scenarios, especially in backend development.
 
 ## 📈 **GitHub Stats & Activity:**
 
 ### GitHub Stats:
 ![Joevar5's GitHub stats](https://github-readme-stats.vercel.app/api?username=joevar5&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-### GitHub Commit Activity:
-![Joevar5's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joevar5&theme=github)
 
 ---
 
@@ -44,24 +41,4 @@ You can find my **[Resume (PDF)](https://github.com/joevar5/joevar5/blob/main/re
 
 ---
 
-## 🌍 **Connect with Me:**
-
-- 🧑‍💻 **GitHub**: [github.com/joevar5](https://github.com/joevar5)
-- 🦸‍♂️ **LinkedIn**: [linkedin.com/in/joevar5](https://linkedin.com/in/joevar5)
-- 🖥️ **Website**: [your-website.com](https://your-website.com)
-
----
-
-## 💬 **Favorite Quote:**
-> “The best way to predict the future is to invent it.” — Alan Kay
-
----
-
-## 🚀 **More About Me:**
-
-I’m a **Deep Learning Specialist** with a passion for solving complex problems using cutting-edge AI techniques. With a background in **Backend Development**, I build scalable, efficient systems that integrate machine learning models for real-world applications.
-
-In addition to my technical skills, I thrive in environments where I can continue learning, solving algorithmic problems, and building impactful solutions.
-
----
 
