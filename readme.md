@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Joevar5**!
+# 👋 Hi there, I'm **Joel Varghese**!
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in system design, web development, and machine learning. I enjoy solving complex problems and creating impactful solutions with technology.
 
