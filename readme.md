@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a **Software Developer** with a strong founda
 - 🔢 **Models**: CNNs, RNNs, LSTMs, GANs, Transformers (BERT, GPT-3)
 - 💾 **Data Science**: NumPy, Pandas, SciPy, Matplotlib, Seaborn
 - 🧮 **Algorithms & Optimization**: Gradient Descent, Backpropagation, Reinforcement Learning, Hyperparameter Tuning
-- 🌐 **Generative AI**: GPT, DALL·E, StyleGAN, VQ-VAE, CLIP
+- 🌐 **Generative AI**: GPT, VQ-VAE, CLIP
 
 ### 🖥️ **Backend Development**:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-%23000?style=flat&logo=flask&logoColor=white)  ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-%23F05032?style=flat&logo=fastapi&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
