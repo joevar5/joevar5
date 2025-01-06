@@ -56,7 +56,8 @@ I have contributed to the fields of **Deep Learning** and **AI** through my acad
 
 ## 🧑‍💻 **Resume**:
 
-You can find my **[Resume (PDF)](https://github.com/joevar5/joevar5/blob/main/resume.pdf)** here. Feel free to download or view it directly.
+You can find my **[Resume (PDF)](https://github.com/joevar5/joevar5/blob/main/joel_varghese_ai_resume.pdf)** here. Feel free to download or view it directly.
+
 
 ---
 
